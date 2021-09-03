@@ -24,7 +24,7 @@ raw_bestselling_item_recommendation_df.drop('Unnamed: 0', axis=1, inplace=True)
 raw_ratings_brand_recommendation_df.drop('Unnamed: 0', axis=1, inplace=True)
 raw_ratings_item_recommendation_df.drop('Unnamed: 0', axis=1, inplace=True)
 
-item_category = pd.read_csv("../item_category.csv")
+item_category = pd.read_csv("item_category.csv")
 
 def get_item_category(item_id):
     return item_category[item_category.item_id == f"{item_id}"].values[0][1]
