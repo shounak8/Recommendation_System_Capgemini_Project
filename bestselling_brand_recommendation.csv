@@ -1,0 +1,121 @@
+,Recommendation_System_Type,Category,Brand,Brand_Sales,Top_Products
+0,Overall_Bestselling_Brand,Portable Audio & Video,Bose,6826,"[7022, 5171, 5273, 5156, 3195]"
+1,Overall_Bestselling_Brand,Portable Audio & Video,DBPOWER,3812,"[4009, 2864, 4079]"
+2,Overall_Bestselling_Brand,Portable Audio & Video,Pyle,3083,"[33, 3468, 4753, 5445, 3502]"
+3,Overall_Bestselling_Brand,Portable Audio & Video,Uniden,2802,"[2223, 2159, 2434, 4419, 1848]"
+4,Overall_Bestselling_Brand,Portable Audio & Video,Mpow,1807,"[5748, 5974]"
+5,Overall_Bestselling_Brand,Computers & Accessories,Logitech,28699,"[2031, 1124, 647, 1780, 1661]"
+6,Overall_Bestselling_Brand,Computers & Accessories,Linksys,7885,"[710, 1055, 679, 142, 1367]"
+7,Overall_Bestselling_Brand,Computers & Accessories,Fintie,4348,"[8736, 5354, 3643, 4696, 2983]"
+8,Overall_Bestselling_Brand,Computers & Accessories,Apple,4281,"[5405, 4302, 5364, 6562, 5329]"
+9,Overall_Bestselling_Brand,Computers & Accessories,Bose,2999,[3106]
+10,Overall_Bestselling_Brand,Headphones,Bose,18227,"[5041, 1670, 4969, 7828, 7869]"
+11,Overall_Bestselling_Brand,Headphones,Mpow,14819,"[6819, 6689, 5009, 7356, 6687]"
+12,Overall_Bestselling_Brand,Headphones,Sennheiser,11406,"[162, 259, 1242, 554, 1911]"
+13,Overall_Bestselling_Brand,Headphones,Sony,11213,"[1575, 3092, 2450, 7202, 3480]"
+14,Overall_Bestselling_Brand,Headphones,Skullcandy,9804,"[2355, 5178, 8195, 3524, 8350]"
+15,Overall_Bestselling_Brand,Camera & Photo,Fujifilm,10882,"[1258, 17, 3384, 4407, 751]"
+16,Overall_Bestselling_Brand,Camera & Photo,Kodak,7620,"[1423, 1119, 1289, 1690, 217]"
+17,Overall_Bestselling_Brand,Camera & Photo,Neewer,6261,"[1605, 8341, 8077, 5209, 3783]"
+18,Overall_Bestselling_Brand,Camera & Photo,Nikon,6036,"[1307, 1156, 296, 1304, 1282]"
+19,Overall_Bestselling_Brand,Camera & Photo,Canon,5849,"[1593, 220, 2881, 3364, 6434]"
+20,Overall_Bestselling_Brand,Accessories & Supplies,EldHus,8113,"[1861, 3539, 927, 1210, 8282]"
+21,Overall_Bestselling_Brand,Accessories & Supplies,Etre Jeune,4398,"[7827, 3229, 1473, 79, 5081]"
+22,Overall_Bestselling_Brand,Accessories & Supplies,Jabra,2090,"[1750, 4811, 3049, 2243]"
+23,Overall_Bestselling_Brand,Accessories & Supplies,ebasy,1098,"[4821, 3576, 1274, 4036, 7163]"
+24,Overall_Bestselling_Brand,Accessories & Supplies,Sennheiser,745,"[1560, 4590, 227]"
+25,Overall_Bestselling_Brand,Television & Video,Samsung,4022,[2129]
+26,Overall_Bestselling_Brand,Television & Video,Panasonic,1074,"[1618, 1296, 476, 1604, 1563]"
+27,Overall_Bestselling_Brand,Television & Video,Toshiba,790,"[4177, 2173, 2984, 2214]"
+28,Overall_Bestselling_Brand,Television & Video,DBPOWER,456,"[8074, 4633, 2654]"
+29,Overall_Bestselling_Brand,Television & Video,Bose,441,[5202]
+30,Overall_Bestselling_Brand,Car Electronics & GPS,Garmin,7054,"[283, 1105, 4152, 1323, 7936]"
+31,Overall_Bestselling_Brand,Car Electronics & GPS,Pyle,1259,"[638, 8041, 8335, 6858, 593]"
+32,Overall_Bestselling_Brand,Car Electronics & GPS,Uniden,638,"[1056, 6731]"
+33,Overall_Bestselling_Brand,Car Electronics & GPS,Mpow,504,[5749]
+34,Overall_Bestselling_Brand,Car Electronics & GPS,JVC,220,"[1037, 980, 441]"
+35,Overall_Bestselling_Brand,Home Audio,TaoTronics,6216,"[5054, 8375, 6328]"
+36,Overall_Bestselling_Brand,Home Audio,Pyle,3558,"[827, 1236, 1125, 3090, 1013]"
+37,Overall_Bestselling_Brand,Home Audio,Sony,554,[511]
+38,Overall_Bestselling_Brand,Home Audio,Bose,431,"[3625, 211, 178]"
+39,Overall_Bestselling_Brand,Home Audio,EldHus,204,[6662]
+40,Overall_Bestselling_Brand,Security & Surveillance,Uniden,1018,"[3989, 1250, 3603, 6638]"
+41,Overall_Bestselling_Brand,Security & Surveillance,Funlux,81,[4831]
+42,Overall_Bestselling_Brand,Security & Surveillance,Samsung,57,[3293]
+43,Overall_Bestselling_Brand,Wearable Technology,Sony,637,[5402]
+44,Overall_Bestselling_Brand,Dresses,Chi Chi London,2851,"[107539, 61110, 126114, 126098, 135364]"
+45,Overall_Bestselling_Brand,Dresses,Retrolicious,1904,"[56780, 28252, 35525, 119314, 40141]"
+46,Overall_Bestselling_Brand,Dresses,ModCloth,1797,"[70538, 142002, 137270, 154064, 150866]"
+47,Overall_Bestselling_Brand,Dresses,Ryu,576,"[48629, 104356, 110169]"
+48,Overall_Bestselling_Brand,Dresses,Emily and Fin,384,"[128563, 153665, 141295]"
+49,Overall_Bestselling_Brand,Outerwear,ModCloth,1381,"[58990, 56289, 78510, 85507, 123500]"
+50,Overall_Bestselling_Brand,Outerwear,Steve Madden,1172,"[27439, 110820, 110824, 129113]"
+51,Overall_Bestselling_Brand,Outerwear,Jack by BB Dakota,330,[71607]
+52,Overall_Bestselling_Brand,Bottoms,ModCloth,4111,"[21296, 54222, 121554, 141880, 153501]"
+53,Overall_Bestselling_Brand,Bottoms,Miss Candyfloss,307,"[121272, 133399, 133539]"
+54,Overall_Bestselling_Brand,Bottoms,Pink Martini,68,[111781]
+55,Overall_Bestselling_Brand,Tops,ModCloth,3271,"[40899, 59176, 118020, 118948, 112771]"
+56,Overall_Bestselling_Brand,Tops,Out of Print,696,"[67022, 113643]"
+57,Overall_Bestselling_Brand,Tops,Kin Ship,360,"[122266, 70230]"
+58,Overall_Bestselling_Brand,Tops,Banned,93,[146244]
+59,Overall_Bestselling_Brand,Tops,Daisey Natives,58,[143764]
+0,Latest_Bestselling_Brand,Portable Audio & Video,DBPOWER,3033,"[4009, 2864, 4079]"
+1,Latest_Bestselling_Brand,Portable Audio & Video,Bose,2527,"[7022, 5171, 3195, 5273, 5156]"
+2,Latest_Bestselling_Brand,Portable Audio & Video,Pyle,677,"[3468, 4753, 5445, 33, 5740]"
+3,Latest_Bestselling_Brand,Portable Audio & Video,Uniden,606,"[2223, 2159, 4419, 2434, 2298]"
+4,Latest_Bestselling_Brand,Portable Audio & Video,Mpow,432,"[5748, 5974]"
+5,Latest_Bestselling_Brand,Computers & Accessories,Logitech,6269,"[2031, 647, 1124, 1780, 3630]"
+6,Latest_Bestselling_Brand,Computers & Accessories,Fintie,1161,"[8736, 3643, 5200, 7901, 5354]"
+7,Latest_Bestselling_Brand,Computers & Accessories,Bose,980,[3106]
+8,Latest_Bestselling_Brand,Computers & Accessories,LSS,424,"[3884, 4543, 4271, 3951, 4043]"
+9,Latest_Bestselling_Brand,Computers & Accessories,Apple,416,"[5364, 5329, 6562, 5405, 4302]"
+10,Latest_Bestselling_Brand,Headphones,Mpow,5832,"[6819, 6689, 6835, 7809, 5424]"
+11,Latest_Bestselling_Brand,Headphones,Skullcandy,4181,"[5178, 2355, 8195, 5261, 8350]"
+12,Latest_Bestselling_Brand,Headphones,Bose,4108,"[5041, 7828, 4969, 7869, 7645]"
+13,Latest_Bestselling_Brand,Headphones,Sennheiser,3238,"[162, 259, 1242, 2228, 2032]"
+14,Latest_Bestselling_Brand,Headphones,Panasonic,1411,"[111, 9510, 9380, 9537, 3248]"
+15,Latest_Bestselling_Brand,Camera & Photo,Neewer,2160,"[8341, 1605, 8077, 3783, 7101]"
+16,Latest_Bestselling_Brand,Camera & Photo,Fujifilm,1923,"[1258, 7349, 7895, 6444, 3384]"
+17,Latest_Bestselling_Brand,Camera & Photo,Polaroid,1774,"[6726, 2586, 2366, 1327, 1531]"
+18,Latest_Bestselling_Brand,Camera & Photo,Nikon,738,"[7544, 6745, 8609, 8539, 6599]"
+19,Latest_Bestselling_Brand,Camera & Photo,Canon,447,"[9225, 9189, 8484, 220, 6434]"
+20,Latest_Bestselling_Brand,Accessories & Supplies,EldHus,989,"[8282, 2138, 9188, 1861, 9169]"
+21,Latest_Bestselling_Brand,Accessories & Supplies,Etre Jeune,276,"[7827, 5081, 9244, 3229, 1473]"
+22,Latest_Bestselling_Brand,Accessories & Supplies,Jabra,245,"[4811, 3049, 2243, 1750]"
+23,Latest_Bestselling_Brand,Accessories & Supplies,Sennheiser,101,"[1560, 4590]"
+24,Latest_Bestselling_Brand,Accessories & Supplies,Pyle,79,"[4225, 1744, 5258]"
+25,Latest_Bestselling_Brand,Television & Video,Bose,201,[5202]
+26,Latest_Bestselling_Brand,Television & Video,DBPOWER,88,"[8074, 4633, 2654]"
+27,Latest_Bestselling_Brand,Television & Video,Samsung,63,[2129]
+28,Latest_Bestselling_Brand,Television & Video,Pyle,40,[1984]
+29,Latest_Bestselling_Brand,Television & Video,Toshiba,14,"[4177, 2173, 2214]"
+30,Latest_Bestselling_Brand,Car Electronics & GPS,Garmin,537,"[7936, 5185, 4152, 1105, 6625]"
+31,Latest_Bestselling_Brand,Car Electronics & GPS,Pyle,286,"[638, 8041, 8335, 2431, 593]"
+32,Latest_Bestselling_Brand,Car Electronics & GPS,Uniden,163,"[1056, 6731]"
+33,Latest_Bestselling_Brand,Car Electronics & GPS,Mpow,24,[5749]
+34,Latest_Bestselling_Brand,Car Electronics & GPS,EINCAR,10,[6750]
+35,Latest_Bestselling_Brand,Home Audio,TaoTronics,2541,"[5054, 8375, 6328]"
+36,Latest_Bestselling_Brand,Home Audio,Pyle,595,"[1236, 3090, 1125, 827, 5459]"
+37,Latest_Bestselling_Brand,Home Audio,Sony,28,[511]
+38,Latest_Bestselling_Brand,Home Audio,Bose,16,"[3625, 211, 178]"
+39,Latest_Bestselling_Brand,Home Audio,EldHus,7,[6662]
+40,Latest_Bestselling_Brand,Security & Surveillance,Uniden,243,"[3989, 6638, 1250, 3603]"
+41,Latest_Bestselling_Brand,Security & Surveillance,Samsung,12,[3293]
+42,Latest_Bestselling_Brand,Security & Surveillance,Funlux,7,[4831]
+43,Latest_Bestselling_Brand,Wearable Technology,Sony,123,[5402]
+44,Latest_Bestselling_Brand,Dresses,Chi Chi London,1084,"[107539, 126114, 135364, 141856, 147244]"
+45,Latest_Bestselling_Brand,Dresses,ModCloth,848,"[70538, 142002, 154064, 150866, 153445]"
+46,Latest_Bestselling_Brand,Dresses,Retrolicious,327,"[40141, 119314, 56780, 28252, 140020]"
+47,Latest_Bestselling_Brand,Dresses,Emily and Fin,271,"[128563, 153665, 141295]"
+48,Latest_Bestselling_Brand,Dresses,Pepaloves,183,[153481]
+49,Latest_Bestselling_Brand,Outerwear,ModCloth,384,"[135555, 86074, 123500, 58990, 85507]"
+50,Latest_Bestselling_Brand,Outerwear,Steve Madden,239,"[27439, 110820, 129113, 110824]"
+51,Latest_Bestselling_Brand,Outerwear,Jack by BB Dakota,85,[71607]
+52,Latest_Bestselling_Brand,Bottoms,ModCloth,1642,"[21296, 153501, 141880, 54222, 148257]"
+53,Latest_Bestselling_Brand,Bottoms,Miss Candyfloss,153,"[133399, 121272, 133539]"
+54,Latest_Bestselling_Brand,Bottoms,Pink Martini,26,[111781]
+55,Latest_Bestselling_Brand,Tops,ModCloth,933,"[59176, 40899, 118020, 153726, 153517]"
+56,Latest_Bestselling_Brand,Tops,Out of Print,52,"[67022, 113643]"
+57,Latest_Bestselling_Brand,Tops,Kin Ship,51,"[122266, 70230]"
+58,Latest_Bestselling_Brand,Tops,Banned,48,[146244]
+59,Latest_Bestselling_Brand,Tops,Daisey Natives,38,[143764]

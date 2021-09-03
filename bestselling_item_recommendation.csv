@@ -1,0 +1,141 @@
+,Recommendation_Type,Category,Item_ID,Brand,Sold_Units
+0,Overall_Bestselling_Items,Portable Audio & Video,7780,Other,28530
+1,Overall_Bestselling_Items,Portable Audio & Video,5063,Other,3875
+2,Overall_Bestselling_Items,Portable Audio & Video,5940,Other,3437
+3,Overall_Bestselling_Items,Portable Audio & Video,4009,DBPOWER,3340
+4,Overall_Bestselling_Items,Portable Audio & Video,7022,Bose,3183
+0,Overall_Bestselling_Items,Computers & Accessories,2031,Logitech,9393
+1,Overall_Bestselling_Items,Computers & Accessories,2279,Other,6278
+2,Overall_Bestselling_Items,Computers & Accessories,2486,Other,5810
+3,Overall_Bestselling_Items,Computers & Accessories,1124,Logitech,5353
+4,Overall_Bestselling_Items,Computers & Accessories,647,Logitech,4520
+0,Overall_Bestselling_Items,Headphones,1575,Sony,8622
+1,Overall_Bestselling_Items,Headphones,2340,Other,5790
+2,Overall_Bestselling_Items,Headphones,5795,Other,5554
+3,Overall_Bestselling_Items,Headphones,1886,Other,5323
+4,Overall_Bestselling_Items,Headphones,6210,Other,4916
+0,Overall_Bestselling_Items,Camera & Photo,5897,Other,3824
+1,Overall_Bestselling_Items,Camera & Photo,2237,Other,3777
+2,Overall_Bestselling_Items,Camera & Photo,1605,Neewer,3677
+3,Overall_Bestselling_Items,Camera & Photo,1875,Other,2636
+4,Overall_Bestselling_Items,Camera & Photo,6726,Polaroid,2086
+0,Overall_Bestselling_Items,Accessories & Supplies,1715,Other,5482
+1,Overall_Bestselling_Items,Accessories & Supplies,2483,Other,4325
+2,Overall_Bestselling_Items,Accessories & Supplies,6818,Other,4105
+3,Overall_Bestselling_Items,Accessories & Supplies,3995,Other,3716
+4,Overall_Bestselling_Items,Accessories & Supplies,791,Other,3316
+0,Overall_Bestselling_Items,Television & Video,2129,Samsung,4022
+1,Overall_Bestselling_Items,Television & Video,3617,Other,2420
+2,Overall_Bestselling_Items,Television & Video,4495,Other,1915
+3,Overall_Bestselling_Items,Television & Video,1735,Other,1252
+4,Overall_Bestselling_Items,Television & Video,6358,Other,991
+0,Overall_Bestselling_Items,Car Electronics & GPS,3728,Other,4345
+1,Overall_Bestselling_Items,Car Electronics & GPS,6005,Other,2864
+2,Overall_Bestselling_Items,Car Electronics & GPS,283,Garmin,2863
+3,Overall_Bestselling_Items,Car Electronics & GPS,1105,Garmin,1457
+4,Overall_Bestselling_Items,Car Electronics & GPS,5838,Other,938
+0,Overall_Bestselling_Items,Home Audio,5054,TaoTronics,4033
+1,Overall_Bestselling_Items,Home Audio,8375,TaoTronics,1252
+2,Overall_Bestselling_Items,Home Audio,3303,Other,1025
+3,Overall_Bestselling_Items,Home Audio,6328,TaoTronics,931
+4,Overall_Bestselling_Items,Home Audio,8802,Other,918
+0,Overall_Bestselling_Items,Security & Surveillance,9127,Other,994
+1,Overall_Bestselling_Items,Security & Surveillance,6427,Other,572
+2,Overall_Bestselling_Items,Security & Surveillance,7697,Other,536
+3,Overall_Bestselling_Items,Security & Surveillance,3989,Uniden,529
+4,Overall_Bestselling_Items,Security & Surveillance,3013,Other,523
+0,Overall_Bestselling_Items,Wearable Technology,2957,Other,3935
+1,Overall_Bestselling_Items,Wearable Technology,4968,Other,1300
+2,Overall_Bestselling_Items,Wearable Technology,7251,Other,1081
+3,Overall_Bestselling_Items,Wearable Technology,8851,Other,690
+4,Overall_Bestselling_Items,Wearable Technology,5402,Sony,637
+0,Overall_Bestselling_Items,Dresses,32405,Other,1599
+1,Overall_Bestselling_Items,Dresses,32406,Other,1494
+2,Overall_Bestselling_Items,Dresses,32403,Other,1378
+3,Overall_Bestselling_Items,Dresses,16411,Other,1260
+4,Overall_Bestselling_Items,Dresses,55967,Other,1164
+0,Overall_Bestselling_Items,Outerwear,11960,Other,854
+1,Overall_Bestselling_Items,Outerwear,27439,Steve Madden,772
+2,Overall_Bestselling_Items,Outerwear,32236,Other,751
+3,Overall_Bestselling_Items,Outerwear,35272,Other,561
+4,Overall_Bestselling_Items,Outerwear,58990,ModCloth,418
+0,Overall_Bestselling_Items,Bottoms,21296,ModCloth,1636
+1,Overall_Bestselling_Items,Bottoms,50818,Other,998
+2,Overall_Bestselling_Items,Bottoms,62447,Other,998
+3,Overall_Bestselling_Items,Bottoms,80238,Other,925
+4,Overall_Bestselling_Items,Bottoms,54222,ModCloth,749
+0,Overall_Bestselling_Items,Tops,34935,Other,1887
+1,Overall_Bestselling_Items,Tops,67507,Other,1357
+2,Overall_Bestselling_Items,Tops,57369,Other,1133
+3,Overall_Bestselling_Items,Tops,40899,ModCloth,957
+4,Overall_Bestselling_Items,Tops,59176,ModCloth,933
+0,Latest_Bestselling_Items,Portable Audio & Video,7780,Other,28530
+1,Latest_Bestselling_Items,Portable Audio & Video,5063,Other,3875
+2,Latest_Bestselling_Items,Portable Audio & Video,5940,Other,3437
+3,Latest_Bestselling_Items,Portable Audio & Video,4009,DBPOWER,3340
+4,Latest_Bestselling_Items,Portable Audio & Video,7022,Bose,3183
+0,Latest_Bestselling_Items,Computers & Accessories,2031,Logitech,9393
+1,Latest_Bestselling_Items,Computers & Accessories,2279,Other,6278
+2,Latest_Bestselling_Items,Computers & Accessories,2486,Other,5810
+3,Latest_Bestselling_Items,Computers & Accessories,1124,Logitech,5353
+4,Latest_Bestselling_Items,Computers & Accessories,647,Logitech,4520
+0,Latest_Bestselling_Items,Headphones,1575,Sony,8622
+1,Latest_Bestselling_Items,Headphones,2340,Other,5790
+2,Latest_Bestselling_Items,Headphones,5795,Other,5554
+3,Latest_Bestselling_Items,Headphones,1886,Other,5323
+4,Latest_Bestselling_Items,Headphones,6210,Other,4916
+0,Latest_Bestselling_Items,Camera & Photo,5897,Other,3824
+1,Latest_Bestselling_Items,Camera & Photo,2237,Other,3777
+2,Latest_Bestselling_Items,Camera & Photo,1605,Neewer,3677
+3,Latest_Bestselling_Items,Camera & Photo,1875,Other,2636
+4,Latest_Bestselling_Items,Camera & Photo,6726,Polaroid,2086
+0,Latest_Bestselling_Items,Accessories & Supplies,1715,Other,5482
+1,Latest_Bestselling_Items,Accessories & Supplies,2483,Other,4325
+2,Latest_Bestselling_Items,Accessories & Supplies,6818,Other,4105
+3,Latest_Bestselling_Items,Accessories & Supplies,3995,Other,3716
+4,Latest_Bestselling_Items,Accessories & Supplies,791,Other,3316
+0,Latest_Bestselling_Items,Television & Video,2129,Samsung,4022
+1,Latest_Bestselling_Items,Television & Video,3617,Other,2420
+2,Latest_Bestselling_Items,Television & Video,4495,Other,1915
+3,Latest_Bestselling_Items,Television & Video,1735,Other,1252
+4,Latest_Bestselling_Items,Television & Video,6358,Other,991
+0,Latest_Bestselling_Items,Car Electronics & GPS,3728,Other,4345
+1,Latest_Bestselling_Items,Car Electronics & GPS,6005,Other,2864
+2,Latest_Bestselling_Items,Car Electronics & GPS,283,Garmin,2863
+3,Latest_Bestselling_Items,Car Electronics & GPS,1105,Garmin,1457
+4,Latest_Bestselling_Items,Car Electronics & GPS,5838,Other,938
+0,Latest_Bestselling_Items,Home Audio,5054,TaoTronics,4033
+1,Latest_Bestselling_Items,Home Audio,8375,TaoTronics,1252
+2,Latest_Bestselling_Items,Home Audio,3303,Other,1025
+3,Latest_Bestselling_Items,Home Audio,6328,TaoTronics,931
+4,Latest_Bestselling_Items,Home Audio,8802,Other,918
+0,Latest_Bestselling_Items,Security & Surveillance,9127,Other,994
+1,Latest_Bestselling_Items,Security & Surveillance,6427,Other,572
+2,Latest_Bestselling_Items,Security & Surveillance,7697,Other,536
+3,Latest_Bestselling_Items,Security & Surveillance,3989,Uniden,529
+4,Latest_Bestselling_Items,Security & Surveillance,3013,Other,523
+0,Latest_Bestselling_Items,Wearable Technology,2957,Other,3935
+1,Latest_Bestselling_Items,Wearable Technology,4968,Other,1300
+2,Latest_Bestselling_Items,Wearable Technology,7251,Other,1081
+3,Latest_Bestselling_Items,Wearable Technology,8851,Other,690
+4,Latest_Bestselling_Items,Wearable Technology,5402,Sony,637
+0,Latest_Bestselling_Items,Dresses,32405,Other,1599
+1,Latest_Bestselling_Items,Dresses,32406,Other,1494
+2,Latest_Bestselling_Items,Dresses,32403,Other,1378
+3,Latest_Bestselling_Items,Dresses,16411,Other,1260
+4,Latest_Bestselling_Items,Dresses,55967,Other,1164
+0,Latest_Bestselling_Items,Outerwear,11960,Other,854
+1,Latest_Bestselling_Items,Outerwear,27439,Steve Madden,772
+2,Latest_Bestselling_Items,Outerwear,32236,Other,751
+3,Latest_Bestselling_Items,Outerwear,35272,Other,561
+4,Latest_Bestselling_Items,Outerwear,58990,ModCloth,418
+0,Latest_Bestselling_Items,Bottoms,21296,ModCloth,1636
+1,Latest_Bestselling_Items,Bottoms,50818,Other,998
+2,Latest_Bestselling_Items,Bottoms,62447,Other,998
+3,Latest_Bestselling_Items,Bottoms,80238,Other,925
+4,Latest_Bestselling_Items,Bottoms,54222,ModCloth,749
+0,Latest_Bestselling_Items,Tops,34935,Other,1887
+1,Latest_Bestselling_Items,Tops,67507,Other,1357
+2,Latest_Bestselling_Items,Tops,57369,Other,1133
+3,Latest_Bestselling_Items,Tops,40899,ModCloth,957
+4,Latest_Bestselling_Items,Tops,59176,ModCloth,933

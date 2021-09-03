@@ -1,0 +1,53 @@
+,antecedents,consequents,confidence,lift
+14,"Headphones, Camera & Photo, Accessories & Supplies","Portable Audio & Video, Computers & Accessories",0.127848101,1.601001003
+31,"Portable Audio & Video, Computers & Accessories","Headphones, Camera & Photo, Accessories & Supplies",0.017095464,1.601001003
+26,"Portable Audio & Video, Accessories & Supplies","Headphones, Computers & Accessories, Camera & Photo",0.032053316,1.586242516
+19,"Headphones, Computers & Accessories, Camera & Photo","Portable Audio & Video, Accessories & Supplies",0.067558528,1.586242516
+28,"Headphones, Camera & Photo","Portable Audio & Video, Computers & Accessories, Accessories & Supplies",0.013289474,1.54107903
+17,"Portable Audio & Video, Computers & Accessories, Accessories & Supplies","Headphones, Camera & Photo",0.15830721,1.54107903
+8,"Headphones, Camera & Photo, Computers & Accessories, Accessories & Supplies",Portable Audio & Video,0.344709898,1.441662921
+37,Portable Audio & Video,"Headphones, Camera & Photo, Computers & Accessories, Accessories & Supplies",0.00570944,1.441662921
+32,"Camera & Photo, Portable Audio & Video","Headphones, Computers & Accessories, Accessories & Supplies",0.031327543,1.416709641
+13,"Headphones, Computers & Accessories, Accessories & Supplies","Camera & Photo, Portable Audio & Video",0.061735941,1.416709641
+25,"Camera & Photo, Accessories & Supplies","Headphones, Portable Audio & Video, Computers & Accessories",0.023170452,1.408580704
+20,"Headphones, Portable Audio & Video, Computers & Accessories","Camera & Photo, Accessories & Supplies",0.082990961,1.408580704
+27,"Headphones, Computers & Accessories","Camera & Photo, Portable Audio & Video, Accessories & Supplies",0.006078113,1.334371204
+18,"Camera & Photo, Portable Audio & Video, Accessories & Supplies","Headphones, Computers & Accessories",0.299703264,1.334371204
+9,"Headphones, Portable Audio & Video, Computers & Accessories, Accessories & Supplies",Camera & Photo,0.384030418,1.287596595
+36,Camera & Photo,"Headphones, Portable Audio & Video, Computers & Accessories, Accessories & Supplies",0.004577178,1.287596595
+0,Accessories & Supplies,Wearable Technology,0.042843929,1.266386424
+1,Wearable Technology,Accessories & Supplies,0.407111466,1.266386424
+22,"Camera & Photo, Portable Audio & Video, Computers & Accessories","Headphones, Accessories & Supplies",0.151197605,1.259565769
+23,"Headphones, Accessories & Supplies","Camera & Photo, Portable Audio & Video, Computers & Accessories",0.011372593,1.259565769
+15,"Headphones, Portable Audio & Video, Accessories & Supplies","Camera & Photo, Computers & Accessories",0.15279879,1.254679873
+30,"Camera & Photo, Computers & Accessories","Headphones, Portable Audio & Video, Accessories & Supplies",0.011209767,1.254679873
+24,"Computers & Accessories, Accessories & Supplies","Headphones, Portable Audio & Video, Camera & Photo",0.010955635,1.207960816
+21,"Headphones, Portable Audio & Video, Camera & Photo","Computers & Accessories, Accessories & Supplies",0.15052161,1.207960816
+10,"Headphones, Portable Audio & Video, Camera & Photo, Accessories & Supplies",Computers & Accessories,0.627329193,1.198820173
+35,Computers & Accessories,"Headphones, Portable Audio & Video, Camera & Photo, Accessories & Supplies",0.002608808,1.198820173
+11,"Camera & Photo, Portable Audio & Video, Computers & Accessories, Accessories & Supplies",Headphones,0.608433735,1.165661793
+34,Headphones,"Camera & Photo, Portable Audio & Video, Computers & Accessories, Accessories & Supplies",0.002615428,1.165661793
+7,Computers & Accessories,"Camera & Photo, Television & Video, Headphones",0.002737957,1.16416667
+2,"Camera & Photo, Television & Video, Headphones",Computers & Accessories,0.609195402,1.16416667
+6,Television & Video,"Camera & Photo, Headphones, Computers & Accessories",0.022514868,1.114207369
+3,"Camera & Photo, Headphones, Computers & Accessories",Television & Video,0.07090301,1.114207369
+29,"Headphones, Portable Audio & Video","Camera & Photo, Computers & Accessories, Accessories & Supplies",0.013724691,1.095369502
+16,"Camera & Photo, Computers & Accessories, Accessories & Supplies","Headphones, Portable Audio & Video",0.108953614,1.095369502
+33,Accessories & Supplies,"Headphones, Portable Audio & Video, Computers & Accessories, Camera & Photo",0.004246552,1.090892103
+12,"Headphones, Portable Audio & Video, Computers & Accessories, Camera & Photo",Accessories & Supplies,0.350694444,1.090892103
+5,Camera & Photo,"Headphones, Television & Video, Computers & Accessories",0.004803771,1.027173865
+4,"Headphones, Television & Video, Computers & Accessories",Camera & Photo,0.306358382,1.027173865
+2,"Dresses, Tops, Bottoms",Outerwear,0.408913213,1.430131369
+11,Outerwear,"Dresses, Tops, Bottoms",0.340494792,1.430131369
+6,"Dresses, Bottoms","Outerwear, Tops",0.247926049,1.229786458
+7,"Outerwear, Tops","Dresses, Bottoms",0.482917821,1.229786458
+0,"Dresses, Outerwear, Tops",Bottoms,0.77195572,1.203932683
+13,Bottoms,"Dresses, Outerwear, Tops",0.151836261,1.203932683
+4,"Dresses, Outerwear","Tops, Bottoms",0.536135315,1.171256166
+9,"Tops, Bottoms","Dresses, Outerwear",0.212688085,1.171256166
+5,"Dresses, Tops","Outerwear, Bottoms",0.192420898,1.157542063
+8,"Outerwear, Bottoms","Dresses, Tops",0.585666293,1.157542063
+3,"Outerwear, Tops, Bottoms",Dresses,0.794229309,1.132625391
+10,Dresses,"Outerwear, Tops, Bottoms",0.138837271,1.132625391
+12,Tops,"Dresses, Outerwear, Bottoms",0.125479846,1.11880122
+1,"Dresses, Outerwear, Bottoms",Tops,0.868049793,1.11880122
